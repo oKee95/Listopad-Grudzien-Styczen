@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1543509067 source:c:\users\okee\documents\codeblocks\projekt listopad zaliczenie\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<ctime>
+	<cstdlib>
+	<stdio.h>
+
